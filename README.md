@@ -59,7 +59,7 @@ Walmart_Sales_Analysis/
 
 👨‍🎓 About Me
 
-I'm a final-year engineering student at Chandigarh University passionate about data analysis and visualization. I have hands-on experience with SQL, Python, Power BI, and statistical techniques used in analytics. This project is part of my data portfolio to showcase practical skills.
+I am a final-year engineering student at Chandigarh University with a strong passion for data analysis and visualization. I possess practical experience in SQL, Python, Power BI, and key statistical methods used in data analytics. This project is a part of my professional portfolio, developed to demonstrate my applied skills and problem-solving capabilities in real-world data scenarios
 
 [💼 https://www.linkedin.com/in/pranshu-b-6642b0284/ ] [📫 pranshubahri5@gmail.com ]
 
